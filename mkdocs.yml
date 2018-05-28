@@ -1,8 +1,8 @@
 #Nombre de la página web
-site_name: My Docs
+site_name: Página hecha con MKDocs
 #Secciones de la página web
 pages:
-  - Principal: index.md
+  - Inicio: index.md
   - Seccion 1: seccion1.md
 
 #Tema, puede omitirse
